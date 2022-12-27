@@ -12,7 +12,7 @@ You will need the following libraries:
 
 You can get these by going to Arduino IDE >> Sketch >> Include Library >> Manage Libraries >> "search for" FastLED and install library
 
-## STEP 2: Upload the code file to Arduino
+## STEP 3: Upload the code file to Arduino
  - JukeboxV4.ino
 
 Note that you will want to determine the beginning and end of each spectrum and set the addressable LED accordingly - this will take trial and error. 
@@ -26,7 +26,7 @@ Some adjustment variables:
 - BRIGHTNESS: changes brightness (0-255), keep in mind more brightness requires larger power supply
 - LED_TYPE, this project uses WS2811 but can be adapted to similar LED types
 
-## STEP 3: Plug in Music to your sound module
+## STEP 4: Plug in Music to your sound module
 You will need an auxilary cable coming from your sound source into the module so that the chip can do the audio analyzing.
 
-## STEP 4: Enjoy the show!
+## STEP 5: Enjoy the show!
